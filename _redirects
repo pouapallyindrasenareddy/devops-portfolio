@@ -1,0 +1,5 @@
+# Netlify redirects (backup to netlify.toml)
+/resume   /assets/resume.pdf   301
+/cv       /assets/resume.pdf   301
+/github   https://github.com/indrasena-reddy   302
+/linkedin https://linkedin.com/in/indrasena-reddy   302
